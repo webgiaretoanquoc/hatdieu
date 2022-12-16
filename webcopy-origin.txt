@@ -1,0 +1,1536 @@
+Uri: https://hatdieu.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/dieu-gia-vi/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\dieu-gia-vi\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/dieu-gia-vi/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\dieu-gia-vi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/hat-dieu-be/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\hat-dieu-be\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/hat-dieu-be/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\hat-dieu-be\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/hat-dieu-rang-muoi/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\hat-dieu-rang-muoi\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/hat-dieu-rang-muoi/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\hat-dieu-rang-muoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/keo-hat-dieu/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\keo-hat-dieu\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/danh-muc/keo-hat-dieu/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\danh-muc\keo-hat-dieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/huong-dan-mua-hang/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\huong-dan-mua-hang\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/dieu-rang-muoi-boc-vo-lua-dieu-vang-500g-1-hop/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\dieu-rang-muoi-boc-vo-lua-dieu-vang-500g-1-hop\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/dieu-rang-muoi-hu-bat-nap-250g-1-hu/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\dieu-rang-muoi-hu-bat-nap-250g-1-hu\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/dieu-rang-muoi-xep-hop-elip-400g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\dieu-rang-muoi-xep-hop-elip-400g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/dieu-zumthai/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\dieu-zumthai\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/feed/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/hat-dieu-be-hop-tron-500g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\hat-dieu-be-hop-tron-500g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/hat-dieu-be-hu-vuong-500g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\hat-dieu-be-hu-vuong-500g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/hat-dieu-hut-chan-khong-500g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\hat-dieu-hut-chan-khong-500g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/hat-dieu-rang-muoi-boc-vo-lua-500g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\hat-dieu-rang-muoi-boc-vo-lua-500g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/hat-dieu-rang-muoi-hop-tron-500g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\hat-dieu-rang-muoi-hop-tron-500g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/hat-dieu-rang-muoi-hu-vuong-500g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\hat-dieu-rang-muoi-hu-vuong-500g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/keo-dieu-hu-bat-nap-250g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\keo-dieu-hu-bat-nap-250g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/keo-dieu-hu-bat-nap-450g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\keo-dieu-hu-bat-nap-450g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/keo-hat-dieu-500g/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\keo-hat-dieu-500g\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/keo-hat-dieu/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\keo-hat-dieu\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/san-pham/page/2/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\san-pham\page\2\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://hatdieu.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/05/z2195856395533_fe26ab54503d0239d84a296806e4187f-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\05\z2195856395533_fe26ab54503d0239d84a296806e4187f-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/05/z2195856395533_fe26ab54503d0239d84a296806e4187f-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\05\z2195856395533_fe26ab54503d0239d84a296806e4187f-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/05/z2195856395533_fe26ab54503d0239d84a296806e4187f-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\05\z2195856395533_fe26ab54503d0239d84a296806e4187f-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/05/z2195856395533_fe26ab54503d0239d84a296806e4187f-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\05\z2195856395533_fe26ab54503d0239d84a296806e4187f-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/05/z2195856395533_fe26ab54503d0239d84a296806e4187f.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\05\z2195856395533_fe26ab54503d0239d84a296806e4187f.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/cropped-logo1-180x180.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\cropped-logo1-180x180.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/cropped-logo1-192x192.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\cropped-logo1-192x192.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/cropped-logo1-32x32.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\cropped-logo1-32x32.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/giao-hang-toan-quoc-24x24.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\giao-hang-toan-quoc-24x24.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/giao-hang-toan-quoc-36x36.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\giao-hang-toan-quoc-36x36.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/giao-hang-toan-quoc-48x48.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\giao-hang-toan-quoc-48x48.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/giao-hang-toan-quoc.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\giao-hang-toan-quoc.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/spa-tron-goi3-1024x683.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\spa-tron-goi3-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/thanh-toan-khi-nhan-hang-24x24.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\thanh-toan-khi-nhan-hang-24x24.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/thanh-toan-khi-nhan-hang-36x36.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\thanh-toan-khi-nhan-hang-36x36.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/thanh-toan-khi-nhan-hang-48x48.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\thanh-toan-khi-nhan-hang-48x48.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/thanh-toan-khi-nhan-hang.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\thanh-toan-khi-nhan-hang.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/tu-van-mien-phi-24x24.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\tu-van-mien-phi-24x24.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/tu-van-mien-phi-36x36.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\tu-van-mien-phi-36x36.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/tu-van-mien-phi-48x48.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\tu-van-mien-phi-48x48.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2017/07/tu-van-mien-phi.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2017\07\tu-van-mien-phi.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540-247x98.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540-247x98.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540-24x9.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540-24x9.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540-36x14.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540-36x14.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540-48x19.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540-48x19.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540-510x202.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540-510x202.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540-768x304.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540-768x304.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540-800x316.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540-800x316.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/025261733817080_1366x540.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\025261733817080_1366x540.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/111-100x100.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\111-100x100.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/111-247x167.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\111-247x167.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/111-280x280.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\111-280x280.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/111-510x344.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\111-510x344.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/111-593x400.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\111-593x400.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/111.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\111.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-1196x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-1196x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-1536x1027.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-1536x1027.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-247x165.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-247x165.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-510x341.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-510x341.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-598x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-598x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy-768x514.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy-768x514.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/42152456ae4fd7e073c86c077a46355e-copy.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\42152456ae4fd7e073c86c077a46355e-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/ant_product_support.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\ant_product_support.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523665112-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523665112-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523665112-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523665112-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523665112-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523665112-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523665112-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523665112-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523665112-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523665112-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523665112-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523665112-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523665112-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523665112-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523679466-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523679466-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523679466-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523679466-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523679466-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523679466-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523679466-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523679466-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523679466-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523679466-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523679466-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523679466-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/beauty-1606523679466-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\beauty-1606523679466-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/icon.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\icon.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_0969-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_0969-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_0969-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_0969-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_0969-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_0969-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_0969-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_0969-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_0969-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_0969-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_0969-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_0969-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_0969-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_0969-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4163-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4163-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4163-247x167.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4163-247x167.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4163-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4163-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4163-510x344.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4163-510x344.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4163-593x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4163-593x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4163.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4163.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4803-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4803-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4803-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4803-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4803-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4803-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4803-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4803-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4803-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4803-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4803-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4803-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4803-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4803-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4805-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4805-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4805-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4805-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4805-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4805-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4805-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4805-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4805-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4805-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4805-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4805-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_4805-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_4805-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_5863-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_5863-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_5863-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_5863-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_5863-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_5863-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_5863-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_5863-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_5863-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_5863-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_5863-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_5863-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_5863-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_5863-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6401-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6401-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6401-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6401-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6401-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6401-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6401-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6401-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6401-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6401-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6401-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6401-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6401-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6401-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6706-1067x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6706-1067x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6706-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6706-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6706-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6706-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6706-247x185.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6706-247x185.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6706-510x383.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6706-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6706-533x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6706-533x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/IMG_6706-768x576.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\IMG_6706-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/logo-TA.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\logo-TA.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/Picture1-100x100.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\Picture1-100x100.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/Picture1-247x165.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\Picture1-247x165.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/Picture1-280x280.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\Picture1-280x280.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/Picture1-510x340.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\Picture1-510x340.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/Picture1.png
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\Picture1.png
+Content Type: image/png
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/slide4-247x98.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\slide4-247x98.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/slide4-510x202.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\slide4-510x202.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/slide4-768x304.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\slide4-768x304.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/slide4-800x316.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\slide4-800x316.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/slide4.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/unsplash18-1-of-5.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\unsplash18-1-of-5.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002116_e44597602704c092b519ce1bd0a591e1-1133x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002116_e44597602704c092b519ce1bd0a591e1-1133x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002116_e44597602704c092b519ce1bd0a591e1-247x174.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002116_e44597602704c092b519ce1bd0a591e1-247x174.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002116_e44597602704c092b519ce1bd0a591e1-510x360.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002116_e44597602704c092b519ce1bd0a591e1-510x360.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002116_e44597602704c092b519ce1bd0a591e1-566x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002116_e44597602704c092b519ce1bd0a591e1-566x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002116_e44597602704c092b519ce1bd0a591e1-768x542.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002116_e44597602704c092b519ce1bd0a591e1-768x542.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002116_e44597602704c092b519ce1bd0a591e1.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002116_e44597602704c092b519ce1bd0a591e1.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07-247x263.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07-247x263.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07-376x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07-376x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07-510x543.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07-510x543.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07-751x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07-751x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07-768x818.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07-768x818.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596002727_4c079f1751a00c55361af71956d53d07.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596002727_4c079f1751a00c55361af71956d53d07.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-247x165.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-247x165.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-510x340.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-510x340.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-600x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596006631_45ef52c48c17b7948e0b0caed1cdd946-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596006631_45ef52c48c17b7948e0b0caed1cdd946.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596006631_45ef52c48c17b7948e0b0caed1cdd946.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-1094x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-1094x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-247x181.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-247x181.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-510x373.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-510x373.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-547x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-547x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-768x562.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799-768x562.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188596722149_8d8c610b6ec95525a3a1846e3aed8799.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188596722149_8d8c610b6ec95525a3a1846e3aed8799.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188597874407_13124d4ec0339f9037b32df6865b26c0-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188597874407_13124d4ec0339f9037b32df6865b26c0-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188597874407_13124d4ec0339f9037b32df6865b26c0-247x154.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188597874407_13124d4ec0339f9037b32df6865b26c0-247x154.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188597874407_13124d4ec0339f9037b32df6865b26c0-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188597874407_13124d4ec0339f9037b32df6865b26c0-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188597874407_13124d4ec0339f9037b32df6865b26c0-510x319.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188597874407_13124d4ec0339f9037b32df6865b26c0-510x319.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188597874407_13124d4ec0339f9037b32df6865b26c0-640x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188597874407_13124d4ec0339f9037b32df6865b26c0-640x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188597874407_13124d4ec0339f9037b32df6865b26c0-768x480.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188597874407_13124d4ec0339f9037b32df6865b26c0-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188597874407_13124d4ec0339f9037b32df6865b26c0.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188597874407_13124d4ec0339f9037b32df6865b26c0.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-1055x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-1055x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-247x187.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-247x187.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-510x387.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-510x387.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-527x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-527x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-768x582.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87-768x582.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598973037_ff0eac556c8ddff875f5eddd5c952e87.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598973037_ff0eac556c8ddff875f5eddd5c952e87.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-1133x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-1133x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-247x174.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-247x174.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-510x360.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-510x360.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-566x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-566x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-768x542.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d-768x542.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2188598976858_fac87c8c7c17959e54d2a4518eb9f30d.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-1086x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-1086x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-1536x1132.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-1536x1132.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-247x182.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-247x182.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-510x376.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-510x376.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-543x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-543x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863-768x566.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863-768x566.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461349268_89bd164cc525c98e1fb934b3187fb863.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461349268_89bd164cc525c98e1fb934b3187fb863.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-1106x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-1106x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-247x179.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-247x179.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-510x369.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-510x369.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-553x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-553x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-768x555.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a-768x555.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2190461354966_94cb0fa2430096b8397ef9ad5baaf29a.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2193336347617_f8a1c93529bdecc45e30317c9256600f-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2193336347617_f8a1c93529bdecc45e30317c9256600f-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2193336347617_f8a1c93529bdecc45e30317c9256600f-247x175.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2193336347617_f8a1c93529bdecc45e30317c9256600f-247x175.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2193336347617_f8a1c93529bdecc45e30317c9256600f-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2193336347617_f8a1c93529bdecc45e30317c9256600f-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2193336347617_f8a1c93529bdecc45e30317c9256600f-510x361.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2193336347617_f8a1c93529bdecc45e30317c9256600f-510x361.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2193336347617_f8a1c93529bdecc45e30317c9256600f-565x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2193336347617_f8a1c93529bdecc45e30317c9256600f-565x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2193336347617_f8a1c93529bdecc45e30317c9256600f-768x543.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2193336347617_f8a1c93529bdecc45e30317c9256600f-768x543.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2193336347617_f8a1c93529bdecc45e30317c9256600f.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2193336347617_f8a1c93529bdecc45e30317c9256600f.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2-247x307.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2-247x307.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2-322x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2-322x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2-510x634.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2-510x634.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2-643x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2-643x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2-768x955.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2-768x955.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195208897939_89eefc41f57c39e27685d99b101c37f2.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195208897939_89eefc41f57c39e27685d99b101c37f2.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91-100x100.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91-247x303.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91-247x303.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91-280x280.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91-326x400.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91-326x400.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91-510x625.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91-510x625.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91-653x800.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91-653x800.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91-768x942.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91-768x942.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-content/uploads/2020/11/z2195209889613_761f38a68f2844e241d26970aa86ed91.jpg
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-content\uploads\2020\11\z2195209889613_761f38a68f2844e241d26970aa86ed91.jpg
+Content Type: image/jpeg
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://hatdieu.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fhuong-dan-mua-hang%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fhuong-dan-mua-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-rang-muoi-boc-vo-lua-dieu-vang-500g-1-hop%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-rang-muoi-boc-vo-lua-dieu-vang-500g-1-hop%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-rang-muoi-hu-bat-nap-250g-1-hu%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-rang-muoi-hu-bat-nap-250g-1-hu%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-rang-muoi-xep-hop-elip-400g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-rang-muoi-xep-hop-elip-400g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-zumthai%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fdieu-zumthai%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-be-hop-tron-500g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-be-hop-tron-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-be-hu-vuong-500g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-be-hu-vuong-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-hut-chan-khong-500g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-hut-chan-khong-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-rang-muoi-boc-vo-lua-500g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-rang-muoi-boc-vo-lua-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-rang-muoi-hop-tron-500g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-rang-muoi-hop-tron-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-rang-muoi-hu-vuong-500g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fhat-dieu-rang-muoi-hu-vuong-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-dieu-hu-bat-nap-250g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-dieu-hu-bat-nap-250g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-dieu-hu-bat-nap-450g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-dieu-hu-bat-nap-450g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-hat-dieu%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-hat-dieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-hat-dieu-500g%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Fsan-pham%2Fkeo-hat-dieu-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhatdieu.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/pages/163
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\pages\163
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/pages/733
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\pages\733
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/pages/736
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\pages\736
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/pages/821
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\pages\821
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/781
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\781
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/782
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\782
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/783
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\783
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/784
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\784
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/785
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\785
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/786
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\786
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/787
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\787
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/788
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\788
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/793
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\793
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/795
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\795
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/797
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\797
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/802
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\802
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/805
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\805
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product/825
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product\825
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product_cat/49
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product_cat\49
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product_cat/50
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product_cat\50
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product_cat/51
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product_cat\51
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/wp-json/wp/v2/product_cat/65
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\wp-json\wp\v2\product_cat\65
+Content Type: application/json
+
+Uri: https://hatdieu.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fdieu-rang-muoi-boc-vo-lua-dieu-vang-500g-1-hop%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fdieu-rang-muoi-hu-bat-nap-250g-1-hu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fdieu-rang-muoi-xep-hop-elip-400g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fdieu-zumthai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fhat-dieu-be-hop-tron-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fhat-dieu-be-hu-vuong-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fhat-dieu-hut-chan-khong-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fhat-dieu-rang-muoi-boc-vo-lua-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fhat-dieu-rang-muoi-hop-tron-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fhat-dieu-rang-muoi-hu-vuong-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fkeo-dieu-hu-bat-nap-250g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fkeo-dieu-hu-bat-nap-450g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fkeo-hat-dieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhatdieu.webtudong8giay.com%252Fsan-pham%252Fkeo-hat-dieu-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\hatdieu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
